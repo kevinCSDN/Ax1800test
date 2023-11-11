@@ -25,5 +25,5 @@ feed() {
 #feed helloworld https://github.com/fw876/helloworld
 #feed turbocc https://github.com/chenmozhijin/turboacc.git luci
 
-feed nuexini https://github.com/NueXini/NueXini_Packages.git
-feed kiddin9 https://github.com/kiddin9/openwrt-packages.git
+# feed nuexini https://github.com/NueXini/NueXini_Packages.git
+# feed kiddin9 https://github.com/kiddin9/openwrt-packages.git
